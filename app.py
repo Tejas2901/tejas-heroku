@@ -7,5 +7,5 @@ st.title('App to calculate sum of two numbers')
 
 D = st.number_input('Enter a number')
 B = st.number_input('Enter one more number')
-sum = A + B
+sum = D + B
 C = st.write('Sum of the given two number is ',sum)
